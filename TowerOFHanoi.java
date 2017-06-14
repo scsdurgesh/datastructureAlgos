@@ -1,4 +1,4 @@
-package datastructure.towerofhanoi;
+package datastructure.recusion;
 
 public class TowerOFHanoi {
 
